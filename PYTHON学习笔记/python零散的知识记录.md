@@ -26,3 +26,9 @@
    http://hackerxu.com/2014/08/15/getopt.html
    
   * os.getcwd()在python中可获取当前路径
+  
+### chr(), ord()
+   
+    * chr() : 把数值转化为ascii码字符
+    * ord() : 把ascii码字符转化为数值
+    * ‘9’=57 'A'=65 '\0'=0

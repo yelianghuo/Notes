@@ -1,0 +1,5 @@
+
+
+## `class kafka.KafkaProducer(**configs)`
+  
+  
