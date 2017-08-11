@@ -14,4 +14,9 @@ http://www.ttlsa.com/docs/dive-into-python3/http-web-services.html
   Last-Modified：其值为你上次从服务器返回的时间。如果从那时开始，数据已经发成过变化，服务器会忽略If-Modified-Since头并返回新数据和200状态码给你。否则的话，服务器将发回一个特殊的http 304 状态码, 它的含义是“从上次请求到现在数据没有发生过变化.
   
   ETag：服务器在返回数据的同时在ETag头里返回一个哈希码(如何生成哈希码完全取决于服务器，唯一的要求是数据改变时哈希码也要改变) 
-  
+
+
+## keep alive
+
+
+## 
