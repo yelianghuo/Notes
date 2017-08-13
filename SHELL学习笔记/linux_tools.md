@@ -18,9 +18,7 @@
           job='find ${dest}/${output}/data ${dest}/${output}/timestamp_data -ctime -6 | xargs rm -rf'
           " -s
               
-          ```
-          
-          
+          ```    
           
 ###  windows下，在gitlab pull下来的shell脚本，然后通过securecrt rz到开发机上面运行，error：'syntax error near unexpected token'。       
   
