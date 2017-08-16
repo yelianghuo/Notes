@@ -1,4 +1,5 @@
-
+redis入门基本操作
+========
 
 * `INCR`: 将某个整数值加1,为原子操作  
 ``` 
@@ -52,7 +53,38 @@ SISMEMBER superpowers "reflexes" => 0
 SMEMBERS superpowers => 1) "flight", 2) "x-ray vision"
     
 # combine two or more sets
+SUNION SET1 SET2
+```
 
+**sort set**: 有序set,相关命令`ZADD ZRANGE`
+``` 
+ZADD hackers 1940 "Alan Kay"
+ZADD hackers 1906 "Grace Hopper"
+ZADD hackers 1953 "Richard Stallman"
+ZADD hackers 1965 "Yukihiro Matsumoto"
+ZADD hackers 1916 "Claude Shannon"
+ZADD hackers 1969 "Linus Torvalds"
+ZADD hackers 1957 "Sophie Wilson"ZADD hackers 1912 "Alan Turing"
+
+ZRANGE hackers 2 4 => 1) "Claude Shannon", 2) "Alan Kay", 3) "Richard Stallman"
+```
+
+**hashes**: 映射
+``` 
+HSET user:1000 name "John Smith"
+HSET user:1000 email "john.smith@example.com"
+HSET user:1000 password "s3cret"
+HGETALL user:1000
+
+HMSET user:1001 name "Mary Jones" password "hidden" email "mjones@example.com"
+HGET user:1001 name => "Mary Jones"
+
+# hash中的值支持incr操作
+HSET user:1000 visits 10
+HINCRBY user:1000 visits 1 => 11
+HINCRBY user:1000 visits 10 => 21
+HDEL user:1000 visits
+HINCRBY user:1000 visits 1 => 1
 ```
 
 
