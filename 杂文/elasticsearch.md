@@ -609,6 +609,10 @@ output:
     }
   }
 ```
+参考链接：  
+[日期格式](https://www.elastic.co/guide/en/elasticsearch/reference/current/common-options.html#date-math)   
+[查询语法1](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations-bucket-daterange-aggregation.html)  
+[查询语法2](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations-pipeline-bucket-script-aggregation.html)  
 
 kibana
 ------
