@@ -58,3 +58,5 @@ To do that, you need to call the os.fsync method which ensures all operating sys
 
 Typically you don't need to bother with either method, but if you're in a scenario where paranoia about what actually ends up on disk is a good thing, you should make both calls as instructed.
 ```
+
+**`r'string'`**: 在字符串前面加`r`字符表面该`string`为原生字符串，即在字符串内的特殊字符如`\n`被当做两个字符，而不是换行 

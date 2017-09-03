@@ -85,10 +85,12 @@ type Implementation struct {
 
 func (i *Implementation) GetSomeField() string {
     return i.someField
+    //return (*i).someField
 }
 
 func (i *Implementation) SetSomeField(newValue string) {
     i.someField = newValue
+    //(*i).someField = newValue
 }
 
 func Create() *Implementation {

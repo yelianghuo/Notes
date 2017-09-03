@@ -76,6 +76,7 @@ HSET user:1000 email "john.smith@example.com"
 HSET user:1000 password "s3cret"
 HGETALL user:1000
 
+# members set
 HMSET user:1001 name "Mary Jones" password "hidden" email "mjones@example.com"
 HGET user:1001 name => "Mary Jones"
 
@@ -86,6 +87,15 @@ HINCRBY user:1000 visits 10 => 21
 HDEL user:1000 visits
 HINCRBY user:1000 visits 1 => 1
 ```
+**TYPE**: 返回数据库中键对应值的对象类型
+```
+TYPE KEY
+```
+**OBJECT ENCODING**: 查看数据库中键对应值的编码，编码即该值底层所使用的数据结构
+``` 
+
+```
+**flushdb/flushall**: 删除当前数据库中的所有Key  
 
 
 
