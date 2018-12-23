@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../education-business-web/src/main/webapp/WEB-INF/web.xml" description="&lt;/context-param&gt;" line="30" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="fd0cc52a-0a0c-4719-bff0-98fcb72bb862" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spring/SpringMVC/Spring Web MVC.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/mysql/DATE,DATETIME,TIMESTAMP,TIME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/杂文/Google浏览器快捷键.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Notes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Notes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/git/基本命令的使用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/Appenders.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/Architecture.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/Configuration.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/Layouts.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/Logger.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/Messages.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/classEffect.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/源码/log4j_base.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maven/maven基础知识入门.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发/stackoverflow.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/任务/m_campaign_daily_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/任务/东厂大总管.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/明朝那些事/简介.m" beforeDir="false" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,32 +35,42 @@
     <session id="-96806747">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.closed" value="22" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.2" value="9" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="http_learn" value="1" />
           <entry key="jpeg" value="1" />
-          <entry key="md" value="2" />
+          <entry key="jpg" value="1" />
+          <entry key="m" value="1" />
+          <entry key="md" value="21" />
+          <entry key="ms" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="1" />
-          <entry key="Markdown" value="2" />
+          <entry key="Image" value="2" />
+          <entry key="Markdown" value="19" />
+          <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="2127" />
+          <entry key="md" value="7233" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="2127" />
+          <entry key="Markdown" value="5401" />
+          <entry key="PLAIN_TEXT" value="1832" />
         </counts>
       </usages-collector>
     </session>
@@ -66,7 +81,63 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/杂文/git相关知识.md">
+        <entry file="file://$PROJECT_DIR$/log/Architecture.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="318" selection-start-line="6" selection-start-column="318" selection-end-line="6" selection-end-column="318" />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/Layouts.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/git/基本命令的使用.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="105">
+                <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="29" />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/Configuration.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="510">
+                <caret line="34" column="64" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="64" />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/redis/redis入门.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -77,18 +148,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Spring/SpringMVC/Spring Web MVC.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/maven/maven基础知识入门.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="240">
-                <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <first_editor relative-caret-position="120">
+                <caret line="8" column="106" selection-start-line="8" selection-start-column="106" selection-end-line="8" selection-end-column="106" />
               </first_editor>
               <second_editor>
                 <js_state />
               </second_editor>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/log/Log4jClasses.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -140,6 +216,16 @@
         <option value="$PROJECT_DIR$/杂文/elasticsearch.md" />
         <option value="$PROJECT_DIR$/杂文/Google浏览器快捷键.md" />
         <option value="$PROJECT_DIR$/database/mysql/DATE,DATETIME,TIMESTAMP,TIME.md" />
+        <option value="$PROJECT_DIR$/log/Configuration.md" />
+        <option value="$PROJECT_DIR$/log/Architecture.md" />
+        <option value="$PROJECT_DIR$/log/Logger.md" />
+        <option value="$PROJECT_DIR$/log/Layouts.md" />
+        <option value="$PROJECT_DIR$/log/Messages.md" />
+        <option value="$PROJECT_DIR$/log/classEffect.md" />
+        <option value="$PROJECT_DIR$/maven/maven基础知识入门.md" />
+        <option value="$PROJECT_DIR$/log/源码/log4j_base.md" />
+        <option value="$PROJECT_DIR$/并发/stackoverflow.md" />
+        <option value="$PROJECT_DIR$/git/基本命令的使用.md" />
       </list>
     </option>
   </component>
@@ -155,18 +241,15 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="22" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="878" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,44 +257,19 @@
               <item name="Notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="Notes" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Notes" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Notes" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Notes" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Notes" type="462c0819:PsiDirectoryNode" />
-              <item name="Spring" type="462c0819:PsiDirectoryNode" />
-              <item name="SpringMVC" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Notes" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Notes" type="462c0819:PsiDirectoryNode" />
-              <item name="杂文" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537610352390" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545096487989" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -474,16 +532,35 @@
       <workItem from="1537327738954" duration="10619000" />
       <workItem from="1537418635955" duration="465000" />
       <workItem from="1537606301778" duration="1283000" />
+      <workItem from="1540255928453" duration="1733000" />
+      <workItem from="1540338150121" duration="3427000" />
+      <workItem from="1540424769783" duration="3439000" />
+      <workItem from="1540516105755" duration="1234000" />
+      <workItem from="1540602807529" duration="11277000" />
+      <workItem from="1541305840175" duration="831000" />
+      <workItem from="1541721976129" duration="2162000" />
+      <workItem from="1541917287668" duration="3761000" />
+      <workItem from="1542426945275" duration="2894000" />
+      <workItem from="1542592020367" duration="36000" />
+      <workItem from="1542697378820" duration="1583000" />
+      <workItem from="1542712691401" duration="534000" />
+      <workItem from="1542933413238" duration="1148000" />
+      <workItem from="1542968254874" duration="48000" />
+      <workItem from="1542985346895" duration="984000" />
+      <workItem from="1543192743921" duration="612000" />
+      <workItem from="1545093987719" duration="1841000" />
+      <workItem from="1545108867734" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19783000" />
+    <option name="totallyTimeSpent" value="57348000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="878" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49202734" visible="true" weight="0.15808298" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49202734" visible="true" weight="0.18454936" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -502,7 +579,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.5540309" />
       <window_info anchor="bottom" id="Spring" order="11" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.30592105" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.45724908" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32894737" />
       <window_info anchor="bottom" id="JProfiler" order="15" sideWeight="0.49092284" weight="0.32876712" />
@@ -514,7 +591,7 @@
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="SciView" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32960597" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32904148" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
     </layout>
@@ -544,13 +621,7 @@
     <entry file="file://$PROJECT_DIR$/Mongo/mongo_Cursor.md">
       <provider editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/NET/http_learn">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/培训/书中整理的知识.md" />
-    <entry file="file://$PROJECT_DIR$/明朝那些事/简介.m">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/任务/m_campaign_daily_report.md" />
     <entry file="file://$PROJECT_DIR$/培训/业务.md">
       <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -572,28 +643,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/任务/东厂大总管.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/任务/东厂大总管.md" />
     <entry file="file://$PROJECT_DIR$/Java/string.md">
-      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <js_state />
-          </second_editor>
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state>
           <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+        </state>
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <js_state />
+          </second_editor>
         </state>
       </provider>
     </entry>
@@ -709,10 +771,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/杂文/快捷键.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/杂文/Google浏览器快捷键.md">
+    <entry file="file://$PROJECT_DIR$/log/Appenders.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -721,6 +780,166 @@
           </second_editor>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring/SpringMVC/Spring Web MVC.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="16" selection-start-line="16" selection-end-line="16" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/Messages.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="225">
+            <caret line="15" selection-start-line="15" selection-end-line="15" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/明朝那些事/简介.m" />
+    <entry file="file://$PROJECT_DIR$/log/classEffect.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SHELL学习笔记/diff.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SHELL学习笔记/linux_tools.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/Logger.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" selection-start-line="6" selection-end-line="6" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/源码/log4j_base.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NET/http_learn">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/并发/stackoverflow.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/Architecture.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="318" selection-start-line="6" selection-start-column="318" selection-end-line="6" selection-end-column="318" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/Layouts.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/Configuration.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="510">
+            <caret line="34" column="64" selection-start-line="34" selection-start-column="46" selection-end-line="34" selection-end-column="64" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/redis入门.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven/maven基础知识入门.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" column="106" selection-start-line="8" selection-start-column="106" selection-end-line="8" selection-end-column="106" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/Log4jClasses.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/database/mysql/DATE,DATETIME,TIMESTAMP,TIME.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -734,11 +953,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spring/SpringMVC/Spring Web MVC.md">
+    <entry file="file://$PROJECT_DIR$/杂文/快捷键.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/杂文/Google浏览器快捷键.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="240">
-            <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <first_editor />
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/git/基本命令的使用.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="29" />
           </first_editor>
           <second_editor>
             <js_state />
