@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd0cc52a-0a0c-4719-bff0-98fcb72bb862" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/git/基本命令的使用.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/Appenders.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/Architecture.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/Configuration.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/Layouts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/Logger.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/Messages.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/classEffect.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/源码/log4j_base.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maven/maven基础知识入门.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/并发/stackoverflow.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/任务/m_campaign_daily_report.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/任务/东厂大总管.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/明朝那些事/简介.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/mysql/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/database/mysql/index.md" afterDir="false" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,9 +26,9 @@
           <entry key="project.open.time.2" value="9" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.opened" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -51,25 +37,25 @@
           <entry key="jpeg" value="1" />
           <entry key="jpg" value="1" />
           <entry key="m" value="1" />
-          <entry key="md" value="21" />
+          <entry key="md" value="22" />
           <entry key="ms" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="2" />
-          <entry key="Markdown" value="19" />
+          <entry key="Markdown" value="20" />
           <entry key="PLAIN_TEXT" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="7233" />
+          <entry key="md" value="7289" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="5401" />
+          <entry key="Markdown" value="5457" />
           <entry key="PLAIN_TEXT" value="1832" />
         </counts>
       </usages-collector>
@@ -80,20 +66,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/log/Architecture.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="318" selection-start-line="6" selection-start-column="318" selection-end-line="6" selection-end-column="318" />
-              </first_editor>
-              <second_editor>
-                <js_state />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/log/Layouts.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
@@ -108,12 +80,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/git/基本命令的使用.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="105">
-                <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="29" />
+              <first_editor relative-caret-position="90">
+                <caret line="6" column="29" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="29" />
+              </first_editor>
+              <second_editor>
+                <js_state />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database/mysql/index.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="32" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="32" />
               </first_editor>
               <second_editor>
                 <js_state />
@@ -226,6 +212,7 @@
         <option value="$PROJECT_DIR$/log/源码/log4j_base.md" />
         <option value="$PROJECT_DIR$/并发/stackoverflow.md" />
         <option value="$PROJECT_DIR$/git/基本命令的使用.md" />
+        <option value="$PROJECT_DIR$/database/mysql/index.md" />
       </list>
     </option>
   </component>
@@ -250,6 +237,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,19 +247,27 @@
               <item name="Notes" type="b2602c69:ProjectViewProjectNode" />
               <item name="Notes" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Notes" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Notes" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545096487989" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545560362226" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -550,17 +548,18 @@
       <workItem from="1543192743921" duration="612000" />
       <workItem from="1545093987719" duration="1841000" />
       <workItem from="1545108867734" duration="21000" />
+      <workItem from="1545559405053" duration="487000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57348000" />
+    <option name="totallyTimeSpent" value="57835000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49202734" visible="true" weight="0.18454936" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49202734" visible="true" weight="0.18669528" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -579,7 +578,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.5540309" />
       <window_info anchor="bottom" id="Spring" order="11" weight="0.32876712" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="12" visible="true" weight="0.45724908" />
+      <window_info anchor="bottom" id="Terminal" order="12" visible="true" weight="0.3023544" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Concurrent Activities Diagram" order="14" weight="0.32894737" />
       <window_info anchor="bottom" id="JProfiler" order="15" sideWeight="0.49092284" weight="0.32876712" />
@@ -969,8 +968,20 @@
     <entry file="file://$PROJECT_DIR$/git/基本命令的使用.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="29" />
+          <first_editor relative-caret-position="90">
+            <caret line="6" column="29" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="29" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/mysql/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="32" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="32" />
           </first_editor>
           <second_editor>
             <js_state />
