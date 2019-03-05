@@ -1,0 +1,1 @@
+paxos中文讲解：https://www.zhihu.com/question/19787937   https://zhuanlan.zhihu.com/p/31780743   http://linbingdong.com/2017/04/17/%E5%88%86%E5%B8%83%E5%BC%8F%E7%B3%BB%E5%88%97%E6%96%87%E7%AB%A0%E2%80%94%E2%80%94Paxos%E7%AE%97%E6%B3%95%E5%8E%9F%E7%90%86%E4%B8%8E%E6%8E%A8%E5%AF%BC/
