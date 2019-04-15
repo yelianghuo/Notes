@@ -1,0 +1,17 @@
+## concurrent-model代码学习记录
+
+* @Import用法，搭配ImportBeanDefinitionRegistrar、ImportSelector使用
+* BeanFactoryPostProfessor用法
+* BeanPostProfessor用法
+* ApplicationContextAware用法
+
+总结: 使用spring对外提供的接口新起了@ConcurrentScan、@ConcurrentManager和@ConcurrentModel接口，@ConcurrentScan接口主要用来使用@Import用法从而导入ConcurrentModelRegistrar类，类似于@Configuration的作用；@ConcurrentManager类似于@Autowire，将线程池实例注入到ConcurrentModelManager对象中；@ConcurrentModel类似@Component，将并发执行单元注入到bean容器中。
+
+
+
+
+
+
+* @Import: https://www.jianshu.com/p/7eb0c2b214a7
+* Java线程池: http://blog.zhangjikai.com/2017/04/22/%E3%80%90Java-%E5%B9%B6%E5%8F%91%E3%80%91%E8%AF%A6%E8%A7%A3-ThreadPoolExecutor/ 
+* 
